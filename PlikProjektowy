@@ -1,0 +1,16 @@
+Wykonujemy projekt budowy komputera dla grafika komputerowego wykorzystującego oprogramowanie Adobe, głównie Photoshop.
+Wybrany CPU jest starszej daty, lecz jest na tyle tani by grafik był w stanie dokonać jego zakupu...
+(Napisać specyfikację CPU, jak jest zbudowany, co oznacza co itp.,itd.)[https://lenovozone.pl/blog/poznajmy-technologie-jak-dziala-procesor/]
+
+Jako głównym elementem dokonującym procesu renderowania będzie GPU, który będzie przejmował większość obliczeń związanych z procesem
+renderowania projektu graficznego. Wybrany został...
+(To samo co z CPU, specyfikacja techniczna i sposób działania elementu jak i stosowane złącza i technologie.)[https://lenovozone.pl/blog/poznajmy-technologie-jak-dziala-karta-graficzna/]
+
+Obudowa komputera została wybrana głównie ze względu na cyrkulację powietrza co wspomoże chłodzenie podzespołów komputera co w efekcie
+zabezpieczy podzespoły przed spowolnieniem działania ze względu na zawyżoną temperaturę wewnątrz obudowy.
+(Znaleźć obudowę i dodać ją do problematyki).
+
+Płyta główna została dobrana w taki sposób by Sockety pasowały do CPU i zapewniały dodatkowe miejsce na Pamięć RAM która będzie szczególnie
+potrzebna w pracy grafika zapewniając dodatkową pamięć roboczą dla CPU.
+(Opisać sposób działania i sposób budowy przeciętnej płyty głównej)[https://lenovozone.pl/blog/poznajmy-technologie-jak-dziala-plyta-glowna/]
+
