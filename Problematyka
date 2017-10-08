@@ -11,3 +11,37 @@ Dysk twardy to będzie Dysk M.2
 Karty pamięci ram to preferowane 64 Gb max.
 
 Propozycje:
+
+CPU:  Intel Core™ i7 6950X, 3GHz, 25 MB,
+  Typ gniazda:    Socket 2011-3
+  Liczba rdzeni:  10
+  Ilość wątków:   20
+  Częstotliwość taktowania procesora [GHz]:   3
+  Częstotliwość maksymalna Turbo [GHz]:   3.5
+  Architektura [bit]:   64
+  TDP [W]:   140
+     
+GPU:  MSI GeForce GTX 1080 Ti LIGHTNING Z 11GB GDDR5X (352 bit),
+  Szyna danych [bit]:   352
+  Typ złącza:   PCI Express x16
+  Taktowanie rdzenia [MHz]:   1607
+  Taktowanie rdzenia w trybie boost [MHz]:   1721
+  Taktowanie pamięci [MHz]:   11124
+  Jednostki przetwarzania:
+      Jednostki teksturujące: 224
+      Liczba rdzeni CUDA: 3584
+  
+  Złącza zasilania:   3x PCI-E 8-pin
+  
+PSU:  Thermaltake Toughpower iRGB PLUS 1250W,
+  Moc [W]:    1250
+  Certyfikat sprawności:    80 Plus Titanium
+  Max. moc linii +12V:            1248W
+  Max. moc linii +3.3V/+5V:       100W
+  Max. moc linii -12V/+5V:        3.6W
+  Max. moc linii +5VSB:           15W
+  Maks. obciążenie linii +12V:    104A
+  Maks. obciążenie linii +5V:     20A
+  Maks. obciążenie linii +3.3V:   20A
+  Maks. obciążenie linii +5VSB:   3A
+  Maks. obciążenie linii -12V:    0.3A
