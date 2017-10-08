@@ -45,3 +45,28 @@ PSU:  Thermaltake Toughpower iRGB PLUS 1250W,
   Maks. obciążenie linii +3.3V:   20A
   Maks. obciążenie linii +5VSB:   3A
   Maks. obciążenie linii -12V:    0.3A
+  
+  Mobo: Asus X99-E-10G WS
+    Częstotliwości pracy pamięci [MHz]: 3000, 2800, 2133, 3333, 2666, 2400, 3200
+    Gniazda pamięci: DDR4
+    Gniazdo procesora: Socket 2011-3
+    Chipset płyty: Intel X99
+    Maksymalna ilość pamięci [GB]: 128
+  Dysk twardy: Samsung 850 EVO 4TB SATA3
+    Szybkość odczytu [MB/s]:  540
+    Szybkość zapisu [MB/s]: 520
+    Nominalny czas pracy [mln godz]:  1.5
+    Rodzaj kości pamięci: TLC
+    
+  Chłodzenie CPU: MSI Core Frozr XL
+    Prędkość obrotowa [obr./min.]:  1800
+    Przepływ powietrza (CFM):   71,59
+    Przepływ powietrza (m3/h):   121
+    Poziom hałasu - minimalny [dBA]:   17,2
+    Poziom hałasu - maksymalny [dBA]:   33,6
+  Kość RAM: ADATA XPG Dazzle DDR4 16GB, 2400MHz, CL16 
+    Częstotliwość pracy [MHz]: 2400
+    Opóźnienie: 16 CL
+    Pojemność: 16 GB
+    Chłodzenie: Radiator
+    Typ pamięci:  DDR4
